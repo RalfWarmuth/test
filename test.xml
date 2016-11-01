@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<L68000>
+  <Standort>Rostock</Standort>
+  <Date>2016-07-21/</Date>
+  <WerkNummer>A0815</WerkNummer>
+  <Kennwort>geheim4711</Kennwort>
+  <Variante>05B</Variante>
+  <IdNrGes>01</IdNrGes>
+  <IdNrAG>02</IdNrAG>
+  <IdNrKons>03</IdNrKons>
+  <IdNrAT>04</IdNrAT>
+  <Typ>74</Typ>
+  <Bearbeiter>Meiner Ainer</Bearbeiter>
+  <Gruppe>Ostseeplanscher</Gruppe>
+  <Bemerkung>Test-XML File, das eigentlich nicht existiert.</Bemerkung>
+</L68000>
